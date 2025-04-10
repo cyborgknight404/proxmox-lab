@@ -31,5 +31,11 @@ Coming soon: network diagram + subnet plan
 
 ---
 
+## 🧱 Additional Docs
+
+- [💻 VM Plans](./vm_plans.md)
+- [🧰 Tool Stack](./tools_list.md)
+
+
 📅 **Project Timeline:** Ongoing  
 ✍️ Follow along as I document build steps, configs, and lessons learned.
