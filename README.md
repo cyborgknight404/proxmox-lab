@@ -25,17 +25,20 @@ This repository tracks the buildout of my personal cybersecurity lab using Proxm
 - **Analysis:** Kibana, Logstash, Elasticsearch
 - **Monitoring:** Sysmon, OSQuery, and custom scripts
 
-## 📐 Topology Plan
+## 🧭 Network Diagram
 
-Coming soon: network diagram + subnet plan
-
----
+![Proxmox Lab Network Map](./network_map.png)
 
 ## 🧱 Additional Docs
 
 - [💻 VM Plans](./vm_plans.md)
 - [🧰 Tool Stack](./tools_list.md)
 
+## 📐 Topology Plan
+
+Coming soon: subnet plan
+
+---
 
 📅 **Project Timeline:** Ongoing  
 ✍️ Follow along as I document build steps, configs, and lessons learned.
